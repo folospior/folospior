@@ -1,4 +1,7 @@
 ## Hi there 👋
+I'm Filip (Folo)! 🐱
+- 🔭 I’m currently working on learning Go 💫
+- 🌱 I'm currently learning Informatics Technology @ School
 
 <!--
 **folospior/folospior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
